@@ -6,7 +6,7 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/withastro/astro/blob/main/.github/assets/banner.png?raw=true',
+		src: 'https://dripsender.id/wp-content/uploads/2022/06/logo-dripsender-new-1536x277.png',
 		alt:
 			'astro logo on a starry expanse of space,' +
 			' with a purple saturn-like planet floating in the right foreground',
@@ -21,7 +21,7 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const CONTACT_ADMIN = `https://github.com/withastro/astro/tree/main/examples/docs`;
+export const CONTACT_ADMIN = `https://wa.me/6285155415050`;
 
 export const DRIPSENDER_URL = `https://dripsender.id`;
 
