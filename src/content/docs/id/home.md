@@ -1,11 +1,10 @@
 ---
 title: "Welcome to Dripsender"
 description: "Ebook Panduan Lengkap Dripsender A-Z"
+
 ---
 
-![Cover Ebook](/public/img/coverbook.jpg "title")
+![A starry night sky.](/public/img/coverbook.jpg)
 
-
-ini adalah gambar ke dua
-
-![Cover Ebook](/src/images/coverbook.jpg)
+gambar 2
+<img src="/public/img/coverbook.jpg" alt="A starry night sky.">
