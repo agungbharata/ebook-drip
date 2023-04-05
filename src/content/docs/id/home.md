@@ -6,6 +6,9 @@ description: "Ebook Panduan Lengkap Dripsender A-Z"
 
 ![A starry night sky.](/public/img/coverbook.jpg)
 
+tes kates
+![A starry night sky.](/public/img/coverbook.jpg)
+
 tes
 ![A starry night sky.](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg)
 
