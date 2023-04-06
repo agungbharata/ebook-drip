@@ -3,7 +3,7 @@ title: "Aplikasi Whatsapp Marketing Revolusioner"
 description: "Docs intro"
 ---
 
-![Cover Ebook](/assets/images/coverbook.jpg)
+![Cover Ebook](/assets/images/coverbook.avif)
 
 Dripsender adalah aplikasi Whatsapp marketing revolusioner yang memungkinkan penggunanya untuk mengirimkan pesan massal ke ribuan nomor Whatsapp sekaligus dengan cepat dan efisien. Dengan menggunakan Dripsender, pengguna dapat mempromosikan produk atau layanan mereka kepada calon pelanggan dengan lebih mudah dan efektif, tanpa harus menghabiskan banyak waktu dan tenaga.
 
@@ -11,7 +11,7 @@ Aplikasi ini dilengkapi dengan berbagai fitur canggih seperti pengaturan jadwal 
 
 Dripsender memiliki banyak keunggulan dibandingkan dengan aplikasi serupa. Pertama, Dripsender dapat mengirimkan pesan massal tanpa perlu menyimpan nomor kontak di ponsel pengguna. Hal ini memudahkan pengguna untuk mengirimkan pesan massal ke ribuan nomor Whatsapp sekaligus tanpa harus menyimpan nomor-nomor tersebut secara manual.
 
-![Cover Ebook](/assets/images/coverbook.jpg)
+![Cover Ebook](/assets/images/coverbook.avif)
 
 Kedua, Dripsender dilengkapi dengan fitur pengaturan jadwal pengiriman pesan, sehingga pengguna dapat mengatur waktu pengiriman pesan sesuai dengan kebutuhan dan preferensi mereka. Fitur ini memudahkan pengguna untuk mengirimkan pesan secara terjadwal tanpa harus mengirimkannya secara manual.
 
