@@ -10,8 +10,7 @@ local image
 ![A starry night sky.](/public/default-og-image.png)
 
 local image 2
-![A starry night sky.](/public/img/coverbook.jpg)
-
+![A starry night sky.](/assets/images/coverbook.jpg)
 
 link external
 ![A starry night sky.](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg)
