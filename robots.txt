@@ -1,1 +1,6 @@
 # Algolia-Crawler-Verif: 0903ADB356E7F704
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ebook-dripsender.netlify.app/sitemap.xml
