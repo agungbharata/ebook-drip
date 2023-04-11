@@ -21,6 +21,7 @@
     "@types/react-dom": "^18.0.0",
     "algoliasearch": "^4.17.0",
     "astro": "^2.1.9",
+    "astro-robots-txt": "^0.4.1",
     "dotenv": "^16.0.3",
     "preact": "^10.7.3",
     "react": "^18.1.0",
