@@ -27,9 +27,9 @@ export const DRIPSENDER_URL = `https://dripsender.id`;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-	indexName: 'ebook-dripsender',
-	appId: '6EQ8Z1YLCA',
-	apiKey: '8e3843179850621620ce0d7aed0e144c',
+	indexName: 'XXXXXXXXXX',
+	appId: 'XXXXXXXXXX',
+	apiKey: 'XXXXXXXXXX',
 };
 
 export type Sidebar = Record<
