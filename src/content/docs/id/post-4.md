@@ -1,36 +1,24 @@
 ---
-title: "Page 3"
-description: "Lorem ipsum dolor sit amet - 3"
+title: "Ternyata Begini Sejarah Lahirnya Dripsender"
+description: "Dibalik banyaknya fitur Dripsender.."
 ---
 
-This is a fully-featured page, written in Markdown!
+Semua berawal dari grup bisnis di WhatsApp yang sedang membicarakan soal bagaimana cara mengambil data kontak grup WhatsApp lalu mengirimkan broadcast secara massal. Maklum saat itu belum banyak tools WhatsApp marketing yang bisa dijual di Indonesia.
 
-## Section A
+Menanggapi request dari teman-teman grup, kami dari Driplab membuat sebuah tools yang menjadi cikal bakal lahirnya Dripsender. Ulasannya sebagai berikut :
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+#### Wegrabb
 
-## Section B
+Singkat cerita tim Driplab membuat sebuah tools bernama Wegrabb, sebuah extension Chrome yang bisa digunakan untuk melakukan aktivitas WhatsApp marketing seperti melakukan grabbing data kontak WhatsApp grup dan melakukan broadcast massal.
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+#### Maxgrabb
 
-## Section C
+Disaat pengguna Wegrabb semakin banyak dan fitur-fitur sudah tidak mampu lagi di-handle oleh extension Chrome, maka Wegrabb dinonaktifkan, lalu tim Driplab membuat tools Maxgrabb yang merupakan kelanjutan dari pengembangan Wegrabb. Maxgrabb ini merupakan tools WhatsApp marketing yang berbasis dekstop (diinstall di komputer). 
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+Maxgrabb memiliki banyak sekali fitur, sehingga sampai saat ini pun, Maxgrabb masih dijual dan digunakan. Selengkapnya, bisa Anda baca di Website officialnya : https://maxgrabb.com
 
-# Markdown example
+#### Dripsender
 
-This is a fully-featured page, written in Markdown!
+Dripsender adalah nama terakhir dari tools WhatsApp marketing yang tim Driplab kembangkan. Dripsender akhirnya dibuat karena para pengguna Maxgrabb mulai menginginkan tools WhatsApp marketing yang bisa diakses dimana saja dan dengan perangkat kerja seperti laptop hingga smartphone.
 
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+Tentu saja Dripsender menawarkan fitur lebih banyak dari Maxgrabb dan terus dikembangkan untuk memenuhi kebutuhan para usernya.

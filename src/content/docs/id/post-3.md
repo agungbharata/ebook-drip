@@ -1,36 +1,33 @@
 ---
-title: "Page 4"
-description: "Lorem ipsum dolor sit amet - 4"
+title: "Beda Dripsender VS Aplikasi WA Marketing Lainnya"
+description: "Perbedaan antara Dripsender dengan tools WhatsApp lainnya"
 ---
 
-This is a fully-featured page, written in Markdown!
+Suatu ketika pada kolom komentar iklan Dripsender di Facebook, ada yang bertanya : "Bedanya Dripsender dengan yang lainnya apa?"
 
-## Section A
+Kemudian ada yang membalas : "lebih mahal!", tak lama kemudian komentar tersebut dibalas salah satu user Dripsender, dia bilang : "Lebih mahal tapi fiturnya lebih bagus, ini bisa bikin seperti email marketing. Bisa kirim pesan beruntun sesuai jadwal"
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Kurang lebihnya begitu percakapan pada kolom komentar di Facebook.
 
-## Section B
+Nah, sebenarnya benar tidak kalau Dripsender ini beda dengan aplikasi serupa? Jawabannya, ya kalau sama aja untuk apa Dripsender dibuat? 
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+Oke sekarang kita bahas terlebih dulu kesamaan Dripsender dengan aplikasi serupa yang dijual di Indonesia.
+> ##### Persamaan Dripsender VS Kompetitor
+>
+> - Bisa grabbing nomor Whatsapp
+> - Bisa broadcast massal ribuan kontak sekali klik
+> - Tidak perlu install di laptop / handphone
+> - Bisa diakses dari berbagai device yang mempunyai browser, seperti laptop, HP, tablet dll
+> - Penjadwalan broadcast sesuai tanggal dan jam, otomatis terkirim tanpa harus menghidupkan laptop / HP
+> - Bisa kirim berbagai macam file seperti gambar, video, audio, pdf dan lainnya
+>
 
-## Section C
+#### Lalu apa yang membedakan Dripsender dengan aplikasi WhatsApp marketing lainnya?
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+##### 1. Dripsender Bisa Mengirim Pesan Berantai (Drip Message) #####
+Dripsender memungkinkan kita membuat pesan berantai setelah seseorang merespon broadcast kita. Jika kamu mengetahui cara email marketing bekerja, maka salah satu fitur di Dripsender bisa melakukannya. Jika dibandingkan email marketing, maka fitur pesan berantai yang dimiliki Dripsender jauh lebih efektif dan efisien dari segi open rate dan kemudahan mengirim pesannya
+##### 2. Dripsender Mempunyai Fitur Botform #####
+Fitur yang memungkinkan kita untuk membuat survei tanpa form. Pada umumnya, survei untuk menggali data customer itu dilakukan menggunakan form isian seperti Google Form, konversinya rendah karena seseorang diharuskan mengisi form. Sedangkan menggunaan Botform, survei dilakukan di dalam WhatsApp. Tidak keluar dari WhatsApp. Sehingga seseorang hanya perlu membalas chat survei seperti chat biasa. Konversi mendapatkan data jauh lebih besar, karena menggunakan WhatsApp sangat efisien dan efektif
 
-# Markdown example
-
-This is a fully-featured page, written in Markdown!
-
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+##### 3. Dripsender Bisa Diintegrasikan Dengan Dripform atau Google Form #####
+Saat membuat form di DripForm atau Google Form, Anda bisa membuat auto follow up melalui WhatsApp ke nomor WhatsApp seseorang yang mengisi form. Contoh : Doni mengisi form pendaftaran yang Anda buat menggunakan Google Form, setelah Doni mengisi form tersebut, maka secara otomatis Doni akan menerima pesan auto respons melalui WhatsApp nya, semisal pesan ucapan terimakasih telah mendaftar atau verifikasi atau pesan yang lainnya sesuai kebutuhan kita

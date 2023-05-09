@@ -1,50 +1,76 @@
 ---
-title: "tes satu"
-description: "Lorem ipsum dolor sit amet - 2"
+title: "Fitur-Fitur yang Dimiliki Dripsender"
+description: "Ketahui apa saja yang bisa dilakukan Dripsender"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Dekstop & Mobile Acces
 
-Sed flavum. Stridore nato, Alcandrumque desint ostendit derat, longoque, eadem
-iunxit miserum pedum pectora. Liberat sine pignus cupit, ferit mihi venias
-amores, et quod, maduere haec _gravi_ contentusque heros. Qui suae attonitas.
+Bisa dioperasikan menggunakan laptop atau smartphone. Tersedia pula di PlayStore
 
-_Acta caelo_ ego, hoc illi ferroque, qui fluitque Achillis deiecerat erat
-inhospita arasque ad sume et aquis summo. Fugerat ipse iam. Funeris Iuno Danaos
-est inroravere aurum foret nati aeque tetigisset! Esse ad tibi queritur [Sol sub
-est](http://iusserat.net/) pugno solitoque movet coercuit solent caput te?
+#### Grabbing Contact WA
 
-Crescit sint petit gemellos gemino, et _gemma deus sub_ Surrentino frena
-principiis statione. Soporiferam secunda nulli Tereus is _Aeolidae cepit_, tua
-peregrinosque illam parvis, deerit sub et times sedant.
+Bisa melakukan grabbing data atau ambil data kontak grup-grup WA yang Anda ikuti.
 
-## Apium haec candida mea movebo obsuntque descendat
+#### Simpan Nama Kontak
 
-Furti lucos cum iussa quid temptanti gravitate animus: vocat
-[ira](http://rediere.com/): illa. Primis aeternus, illi cinguntur ad mugitus
-aevo repentinos nec.
+Saat grabbing kontak WA otomatis menyimpan nama sesuai nama kontak WA
 
-Transcurrere tenens in _litore_ tuti plebe circumspicit viventi quoque mox
-troades medio mea locuta gradus perque sic unguibus
-[gramen](http://quantoque.io/). Effetus celerique nomina quoque. Ire gemino est.
-Eurus quaerenti: et lacus, tibi ignorant tertia omnes subscribi ducentem sedit
-experientia sine ludunt multae. Ponderis memor purasque, ut armenta corpora
-efferre: praeterea infantem in virgam verso.
+#### Listbuilding Tanpa Form
 
-- Revellit quoniam vulnerat dique respicit
-- Modo illis
-- Nec victoria quodque
-- Spectans si vitis iussorum corpora quas
+Bisa selektif mengumpulkan hanya data orang-orang yang berminat dengan penawaran Anda
 
-Tibi igni, iamque, sum arsuro patet et Talibus cecidere: levati Atlas villosa
-dubium conparentis litem volentem nec? Iuga tenent, passi cumque generosior
-luminis, quique mea aequora ingens bracchia furor, respiramen eram: in. Caelebs
-et passu Phaethonta alumna orbem rapuit inplet [adfusaeque
-oculis](http://www.virum.net/ille-miserae.html) paene. Casus mea cingebant idque
-suis nymphe ut arae potuit et non, inmota erat foret, facta manu arvum.
+#### Broadcast Massal
 
-Fugam nec stridentemque undis te solet mentemque Phrygibus fulvae adhuc quam
-cernimus est! Aper iube dederat adsere iamque mortale ita cornua si fundamina
-quem caperet, iubeas stolidae pedesque intrarunt navigat triformis. Undas terque
-digitos satis in nautae sternuntur curam, iaculum ignoscere _pianda dominique
-nostra_ vivacemque teneraque!
+Kirim marketing campaign lebih mudah dan cepat, tak perlu manual lagi untuk promosi
+
+#### Broadcast Schedule
+
+Jadwalkan broadcast sesuai waktu yang ditentukan. Broadcast akan berjalan otomatis sesuai jadwal
+
+#### Kirim Berbagai File
+
+Bisa kirim pesan teks, gambar, video serta file-file lainya seperti word, excel, ppt, pdf dan lainnya
+
+#### Multi Admin
+
+Bisa masukkan lebih dari 1 no WA dan invite admin untuk membantu melakukan marketing campaign
+
+#### Follow Up Otomatis
+
+Atur pesan follow up nya, sisanya biar Dripsender yang bekerja otomatis melakukan follow up
+
+#### Pesan WA Interaktif
+
+Fitur yang bisa membuat broadcast / pesan WA menjadi interaktif, meningkatkan interaksi customer
+
+#### Button Message
+
+Selipkan tombol pilihan pada pesan / broadcast. Customer tinggal klik saja tanpa mengetik
+
+#### List Message
+
+Produk / jasa bisa divisualisaikan dalam bentuk "Product List" seperti daftar menu
+
+#### Pesan Berantai
+
+Kirim pesan berantai sesuai jadwal yang diinginkan. Meningkatkan interaksi dengan customer
+
+#### Pesan Autoreply
+
+Membalas pesan otomatis. Tidak perlu lagi manual menjawab ratusan pesan WA customer.
+
+#### Unlimited Chatbot
+
+Bikin chatbot sebanyak yang Anda mau. Menyediakan jawaban atas F.A.Q customer
+
+#### Training Nomor WA
+
+Anda harus melatih nomor baru agar tidak mudah diblokir WA. Makin banyak no WA makin bagus
+
+#### Unsubscribe Button
+
+Bisa membuat tombol unsubsribe bagi customer yang tidak berkenan menerima pesan Anda
+
+#### Survei Tanpa Form
+
+Bikin survei untuk berbagai keperluan via WA. Tidak perlu keluar dari WA (bukan link form)
