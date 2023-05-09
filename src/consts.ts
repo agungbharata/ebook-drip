@@ -50,7 +50,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: '✅ Mau Banyak Closing? Lakukan Hal Ini Dengan Cepat', link: 'en/post-7' },
 			{ text: '✅ Kalau Bisa Otommatis, Kok Milih Manual?', link: 'en/post-8' },
 			{ text: '✅ Hemat Pengeluaran, Modalnya Bisa Untuk Kulakan..', link: 'en/post-9' },
-			{ text: '✅ Rangkuman Mindset Bisnis yang Sederhana', link: 'en/post-10' },
+			{ text: '✅ Mindset WhatsApp Marketing', link: 'en/post-10' },
 		],
 		'BAB 3 : Mengelola Nomor WhatsApp Pada Dripsender': [
 			{ text: '✅ Pertama, Mari Hubungkan Whatsapp ke Dripsender', link: 'en/post-11' },
@@ -82,7 +82,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: '✅ Mau Banyak Closing? Lakukan Hal Ini Dengan Cepat', link: 'id/post-7' },
 			{ text: '✅ Kalau Bisa Otommatis, Kok Milih Manual?', link: 'id/post-8' },
 			{ text: '✅ Hemat Pengeluaran, Modalnya Bisa Untuk Kulakan..', link: 'id/post-9' },
-			{ text: '✅ Rangkuman Mindset Bisnis yang Sederhana', link: 'id/post-10' },
+			{ text: '✅ Mindset WhatsApp Marketing', link: 'id/post-10' },
 		],
 		'BAB 3 : Mengelola Nomor WhatsApp Pada Dripsender': [
 			{ text: '✅ Pertama, Mari Hubungkan Whatsapp ke Dripsender', link: 'id/post-11' },
